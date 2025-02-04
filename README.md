@@ -8,7 +8,7 @@
 <img align="center" alt="Gui-html5" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="Gui-html5" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Gui-html5" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img align="center" alt="Gui-html5" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> <br/>
+<img align="center" alt="Gui-html5" height="30" width="40"src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png"> <br/>
 <br/>
 
 ## Contact 
