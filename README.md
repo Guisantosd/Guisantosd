@@ -7,7 +7,8 @@
 <img align="center" alt="Gui-python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="Gui-html5" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="Gui-html5" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="Gui-html5" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" alt="Gui-html5" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
+<img align="center" alt="Gui-html5" height="30" width="40"src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioscv3G3WocwS7bvK5lMv_Vu7nZQnxLI4ZfRPWZ9cj1gYs-lQtHzN70C8DCkchOaiVMhR6MnevtEYAgYo2CpTXhKKAazsFu7KGNrS7oojmI0TSho-NnZmkdJWQf1TSU_wKdxhf_OLTsaDr/s1600/oracle-cloud-logo.png">
 <img align="center" alt="Gui-html5" height="30" width="40"src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png"> <br/>
 <br/>
 
