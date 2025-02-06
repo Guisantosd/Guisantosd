@@ -8,7 +8,7 @@
 <img align="center" alt="Gui-html5" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="Gui-html5" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Gui-html5" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-<img align="center" alt="Gui-html5" height="30" width="40"src="https://e7.pngegg.com/pngimages/504/716/png-clipart-cylindrical-red-and-white-illustration-computer-icons-oracle-database-db-logo-cloud-database-red.png">
+<img align="center" alt="Gui-html5" height="30" width="40"src="https://w7.pngwing.com/pngs/916/783/png-transparent-oracle-corporation-logo-computer-software-marketing-oracle-vm-server-for-sparc-glass-teapot.png">
 <img align="center" alt="Gui-html5" height="30" width="40"src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png"> <br/>
 <br/>
 
